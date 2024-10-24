@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68c1ddfbea3455748b4af406e4119885, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  normalSprite: {fileID: 21300000, guid: 3f44c4a2c1586b24ea464b06e7663095, type: 3}
+  grayscaleSprite: {fileID: 21300000, guid: c1296da77d07cd04781c86c35754e9e5, type: 3}
+  titleEnglish: 'Ideal Analyst:'
+  titleRussian: "\u0418\u0434\u0435\u0430\u043B\u044C\u043D\u044B\u0439 \u0410\u043D\u0430\u043B\u0438\u0442\u0438\u043A:"
+  descriptionEnglish: 'Achieve 30 correct answers in a row in Trend Analysis mode.
+
+    Reward:
+    3000 crypto coins and the "Perfect Analyst" badge.'
+  descriptionRussian: "\u0414\u043E\u0441\u0442\u0438\u0433\u043D\u0438\u0442\u0435
+    30 \u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u044B\u0445 \u043E\u0442\u0432\u0435\u0442\u043E\u0432
+    \u043F\u043E\u0434\u0440\u044F\u0434 \u0432 \u0440\u0435\u0436\u0438\u043C\u0435
+    \"\u0410\u043D\u0430\u043B\u0438\u0437 \u0442\u0440\u0435\u043D\u0434\u043E\u0432\".\n\u041D\u0430\u0433\u0440\u0430\u0434\u0430:
+    3000 \u043A\u0440\u0438\u043F\u0442\u043E\u043C\u043E\u043D\u0435\u0442 \u0438
+    \u0437\u043D\u0430\u0447\u043E\u043A \"\u0418\u0434\u0435\u0430\u043B\u044C\u043D\u044B\u0439
+    \u0410\u043D\u0430\u043B\u0438\u0442\u0438\u043A\"."
+  targetValue: 30
+  rewardAmount: 3000
+  IsCompleted: 0
+  bar: 1

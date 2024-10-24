@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73fc9e74f1b6a2047863296f7a2c024e, type: 3}
+  m_Name: AchievementsProgress
+  m_EditorClassIdentifier: 
+  achievements:
+  - achievement: {fileID: 11400000, guid: 18cf41f875551c540afb7d7969fe1729, type: 2}
+    currentValue: 0
+    isCompleted: 0
+  - achievement: {fileID: 11400000, guid: bb1323fe549e57249a600b56f1eb2814, type: 2}
+    currentValue: 0
+    isCompleted: 0
+  - achievement: {fileID: 11400000, guid: ed5b85037766fd84b839d007b9e06956, type: 2}
+    currentValue: 0
+    isCompleted: 0
+  - achievement: {fileID: 11400000, guid: ff2a717f274564342b2b5b57ad51f7f3, type: 2}
+    currentValue: 0
+    isCompleted: 0
+  - achievement: {fileID: 11400000, guid: 2fa10432553533847ad61203f437cc7c, type: 2}
+    currentValue: 0
+    isCompleted: 0
+  - achievement: {fileID: 11400000, guid: edfdbb7891c064f4bbdb316beb1b732f, type: 2}
+    currentValue: 0
+    isCompleted: 0
+  - achievement: {fileID: 11400000, guid: d8c00c3fa5d66124abab89a90f37b067, type: 2}
+    currentValue: 0
+    isCompleted: 0
+  - achievement: {fileID: 11400000, guid: c8517c6629c306e40b2d5cadf7b8a4bf, type: 2}
+    currentValue: 0
+    isCompleted: 0
+  - achievement: {fileID: 11400000, guid: 3bbd9be5a5656234397f826d592f0561, type: 2}
+    currentValue: 0
+    isCompleted: 0
+  - achievement: {fileID: 11400000, guid: e12d6f2335454a247a6d8309bab72903, type: 2}
+    currentValue: 0
+    isCompleted: 0
+  - achievement: {fileID: 11400000, guid: 153e4c377f01fed459bf376bf343fb15, type: 2}
+    currentValue: 0
+    isCompleted: 0
+  - achievement: {fileID: 11400000, guid: 3fd2de3f0e3e6f544a841bae7a8e72c4, type: 2}
+    currentValue: 0
+    isCompleted: 0
