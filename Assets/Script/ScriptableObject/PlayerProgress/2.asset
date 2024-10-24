@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72767c192f76ca14a95a3d2be18c9cf3, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  levelNumber: 1
+  levelNameEnglish: Advanced
+  levelNameRussian: "\u041F\u0440\u043E\u0434\u0432\u0438\u043D\u0443\u0442\u044B\u0439"
+  avatar: {fileID: 21300000, guid: c0c57d9b1d4017148bb2927c93fe545f, type: 3}
+  requiredCompletionPercentage: 40
